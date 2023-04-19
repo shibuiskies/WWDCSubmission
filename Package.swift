@@ -19,8 +19,8 @@ let package = Package(
             bundleIdentifier: "ayshafzh.WWDC2023",
             displayVersion: "1.0",
             bundleVersion: "1",
-            appIcon: .placeholder(icon: .butterfly),
-            accentColor: .presetColor(.red),
+            appIcon: .placeholder(icon: .sun),
+            accentColor: .presetColor(.blue),
             supportedDeviceFamilies: [
                 .pad,
                 .phone
